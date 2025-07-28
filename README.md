@@ -1,4 +1,4 @@
-## Web Scraping Projects for Data Collection of Machine Learning
+## Data Collection using Web Scraping Projects for Machine Learning
 ---
 
 - This Repo will contain all of my web scraping projects.
